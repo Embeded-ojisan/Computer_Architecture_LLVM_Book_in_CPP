@@ -1,5 +1,6 @@
 
 tmp/
+llvm-myriscv130/
 
 *.exe
 *.o
